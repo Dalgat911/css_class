@@ -1,0 +1,61 @@
+/* Расположение текста */
+p.left{
+    text-align: left;
+}
+p.right{
+    text-align: right;
+}
+p.center{
+    text-align: center;
+}
+/* Таблицы */
+td.top{
+    vertical-align: top;   
+}
+td.middle{
+    vertical-align: middle;
+}
+td.bottom{
+    vertical-align: bottom;
+}
+/*  vertical-align */
+span.baseline{
+    vertical-align: baseline;
+}
+span.sub{
+    vertical-align: sub;
+}
+span.super{
+    vertical-align: super;
+}
+span.pixel{
+    vertical-align: -10px;
+}
+/* vertical align div */
+.main{
+    height: 150px; width: 400%; background-color: LightSkyBlue; display: inline-table;
+}
+.paragraph{
+    display: table-cell;
+    vertical-align: middle;
+}
+p.none{
+    text-decoration: none;
+}
+p.inherit{
+    text-decoration: inherit;
+}
+p.overline{
+    text-decoration: overline;
+    
+}
+p.underline{
+    text-decoration: underline;
+}
+p.line-through{
+    text-decoration: line-through;
+}
+/* Отступ */
+p.none{
+    text-indent: -10px;
+}
