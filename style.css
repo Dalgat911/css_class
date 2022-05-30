@@ -32,30 +32,49 @@ span.pixel{
     vertical-align: -10px;
 }
 /* vertical align div */
-.main{
-    height: 150px; width: 400%; background-color: LightSkyBlue; display: inline-table;
-}
-.paragraph{
-    display: table-cell;
-    vertical-align: middle;
-}
-p.none{
-    text-decoration: none;
-}
-p.inherit{
-    text-decoration: inherit;
-}
-p.overline{
-    text-decoration: overline;
-    
-}
-p.underline{
-    text-decoration: underline;
-}
-p.line-through{
-    text-decoration: line-through;
-}
+/* .main{ */
+    /* height: 150px; width: 400%; background-color: LightSkyBlue; display: inline-table; */
+/* } */
+/* .paragraph{ */
+    /* display: table-cell; */
+    /* vertical-align: middle; */
+/* } */
+/* p.none{ */
+    /* text-decoration: none; */
+/* } */
+/* p.inherit{ */
+    /* text-decoration: inherit; */
+/* } */
+/* p.overline{ */
+    /* text-decoration: overline; */
+/* } */
+/* p.underline{ */
+    /* text-decoration: underline; */
+/* } */
+/* p.line-through{ */
+    /* text-decoration: line-through; */
+/* } */
 /* Отступ */
-p.none{
-    text-indent: -10px;
-}
+/* p.none{ */
+    /* text-indent: -10px; */
+/* } */
+
+
+/* text-shadow */
+
+/* h1{ */
+    /* color: rgb(24, 12, 95); */
+    /* font-size: 30pt; */
+    /* text-shadow: 5px 2px 4px grey */
+/* } */
+/* h1.shadow{ */
+    /* font-size: 20pt; */
+    /* text-shadow: rgba(0,0,255,1) -1px -2px 0.5em; */
+/* } */
+
+
+
+
+
+
+
