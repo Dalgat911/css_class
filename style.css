@@ -72,6 +72,96 @@ span.pixel{
     /* text-shadow: rgba(0,0,255,1) -1px -2px 0.5em; */
 /* } */
 
+/* p.capitalize{ */
+    /* text-transform: capitalize; */
+/* } */
+/* p.uppercase{ */
+    /* text-transform: uppercase; */
+/* } */
+/* p.lowercase{ */
+    /* text-transform: lowercase; */
+/* } */
+
+
+/* letter-spacing */
+/* p.normal{ */
+    /* letter-spacing: normal; */
+/* } */
+/* p.posotive{ */
+    /* letter-spacing:4px; */
+/* } */
+/* p.posotive-{ */
+    /* letter-spacing:-1.5px; */
+/* } */
+
+/* word-spacing - расстояние между словами */
+/* p.normal{
+    word-spacing: normal;
+}
+p.px{
+    word-spacing: 30px;
+}
+p.px-{
+    word-spacing: -3px;
+} */
+
+
+/* white-space */
+/* p{
+    white-space: nowrap;
+} */
+/* p.pre{
+    white-space:pre;
+}
+p.preline{
+    white-space:pre-line;
+}
+p.prewrap{
+    white-space:pre-wrap;
+} */
+
+/* Свойство border */
+/* p{
+    padding: 10px;
+    border: 5px solid green
+}
+p.first{
+    padding: 10px;
+    border:solid;
+    border-width: 2px;
+}
+p.two{
+    padding: 10px;
+    border:solid orange;
+    border-width: 5px;
+
+} */
+
+/* border-style */
+p.none{ border-style: none;}
+p.dotted{ border-style: dotted;}
+p.dashed{ border-style: dashed;}
+p.double{ border-style: double;}
+p.groove{ border-style: groove;}
+p.ridge{ border-style: ridge;}
+p.inset{ border-style: inset;}
+p.outset{ border-style: outset;}
+p.hidden{ border-style: hidden;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
