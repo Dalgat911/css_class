@@ -138,7 +138,7 @@ p.two{
 } */
 
 /* border-style */
-p.none{ border-style: none;}
+/* p.none{ border-style: none;}
 p.dotted{ border-style: dotted;}
 p.dashed{ border-style: dashed;}
 p.double{ border-style: double;}
@@ -146,13 +146,118 @@ p.groove{ border-style: groove;}
 p.ridge{ border-style: ridge;}
 p.inset{ border-style: inset;}
 p.outset{ border-style: outset;}
-p.hidden{ border-style: hidden;}
+p.hidden{ border-style: hidden;} */ 
+
+                /* Ширина и высота */
+/* 
+    div {
+        border: 5px solid greenyellow;
+        width: 90px;
+        height: 90px;
+    } */
+            /* МИнимальный и максимальынй размеры */
+/* p.first{
+    border:5px solid green;
+    min-height: 100px;
+}
+p.second{
+    border: 5px solid green;
+    max-width: 100px;
+}
+ */
+
+                      /* Свойство background-color */
+
+    /* body{
+        background-color:grey;
+    }
+    p{
+        background-color: #fff;
+    }
+    h1{
+        background-color: blue;
+    }
+    h2{
+        background-color: red;
+    } */
+                              /* Свойство background-image */
+/* body{
+    background-image: 
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvNsNQYr-tVijaAOS9FIA0lVhw-PV1m8-qg&usqp=CAU.png");
+    background-color: #e9e9e9;
+} */
+
+/* p{
+    white-space: pre;
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-image: 
+    url("https://cdn.igromania.ru/mnt/news/0/6/1/e/b/0/67879/d568e11b97dafd46_1200xH.jpg");
+    color:white
+} */
+
+    /* Свойство background-repeat */
+
+    /* body{
+        background-image: 
+        url("https://wroom.ru/i/cars2/chevrolet_corvette_7.jpg");
+        background-repeat: no-repeat
+    }
+p{
+    background-image: 
+    url("https://images.drive.ru/i/0/50f3d7e3b721429a14000008.jpg");
+    background-repeat: inherit;
+    margin-top: 100px;
+    padding: 40px;
+} */
+
+                /* Свойство background-attachment */
+        /* body {
+            background-image: 
+            url("https://images.drive.ru/i/0/50f3d7e3b721429a14000008.jpg");
+            background-repeat: no-repeat;
+            background-attachment:fixed;
+        } */
+        /* body {
+            background-image: 
+            url("https://images.drive.ru/i/0/50f3d7e3b721429a14000008.jpg");
+            background-repeat: no-repeat;
+            background-attachment:scroll;
+        } */
 
 
+                    /*  Свойство list-style-type */
 
+/* ol.lower-alpha {
+    list-style-type: lower-alpha;  из 1 2 3 делает a b c 
+}
+ul.circle {
+    list-style-type: circle;
+}
+ul.square {
+    list-style-type: square;
+} */
 
+                    /* Изображение Списка и Позиция */
 
+    /* ul {
+        list-style-image:
+        url("https://images.drive.ru/i/0/50f3d7e3b721429a14000008.jpg");
+        list-style-position:inside;
+    } */
 
+                    /* Свойство list-style */
+
+        /* ul { 
+            list-style: square outside none;
+        }
+        или
+        ul {
+            list-style-type: square;
+            list-style-position: outside;
+            list-style-image: none;
+        } */
 
 
 
