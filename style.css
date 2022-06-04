@@ -259,11 +259,47 @@ ul.square {
             list-style-image: none;
         } */
 
+                /* Стилизация таблиц */
+            /* table {
+                border-collapse: separate;
+                border-spacing: 20px 40px;
+            } */
+
+                    /* Свойство capiton-side */
+                    /* caption {
+                        caption-side: top;
+                } */
+                
+                            /* Свойство empty-cells  */
+
+                /* table {
+                    border-collapse: separate;
+                    empty-cells: hide;
+                } */
 
 
+                                /* Cвойство table-layout */
 
+                /* table {
+                    border-collapse:separate;
+                    width: 100%;
+                    border: 1 px solid gray;
+                }
+                td {
+                    border: 1px solid gray;
+                }
+                table.auto {
+                    table-layout: auto;
+                }
+                table.fixed {
+                    table-layout: fixed;
+                } */
 
+                                    /* Установка Стиля Ссылкам */
 
+                /* a:hover {
+                    color:red;
+                } */
 
 
 
