@@ -300,10 +300,19 @@ ul.square {
                 /* a:hover {
                     color:red;
                 } */
+                                    /* Свойство display */
 
+                /* span {
+                    display: block;
+                    display: inline;
+                    display: none;
+                } */
 
+                                        /* Свойство visibility  */
 
-
+                    /* .hidden {
+                        visibility: hidden;
+                    } */
 
 
 
